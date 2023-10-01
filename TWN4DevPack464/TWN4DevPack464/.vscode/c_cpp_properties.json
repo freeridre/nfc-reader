@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "K:/OneDrive - Óbudai egyetem/beagy projektek/Elatec/TWN4DevPack464/TWN4DevPack464/Tools/sys/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "K:\\OneDrive - Óbudai egyetem\\beagy projektek\\Elatec\\TWN4DevPack464\\TWN4DevPack464\\Tools\\Yagarto-20110328\\bin\\arm-none-eabi-gcc.exe",
+            "cStandard": "c99",
+            "intelliSenseMode": "gcc-arm"
+        }
+    ],
+    "version": 4
+}
